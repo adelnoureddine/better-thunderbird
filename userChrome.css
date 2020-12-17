@@ -1,0 +1,11 @@
+/* Set height for cells in folder pane */
+#folderTree > treechildren::-moz-tree-row {
+	margin-top: 0px !important;
+	height: 25px !important;
+}
+
+/* Set height for cells in thread pane */
+#threadTree > treechildren::-moz-tree-row {
+	border: none !important;
+	height: 40px !important;
+}
