@@ -1,6 +1,6 @@
 # Better thunderbird settings and themes
 
-Tested in Thunderbird 78.
+Tested on Thunderbird 78.
 
 ## Theme
 - In config, set ```toolkit.legacyUserProfileCustomizations.stylesheets``` to ```true```
