@@ -20,4 +20,4 @@ Tested on Thunderbird 78.
 ```
 
 ## Sorting
-- In config, set ```mailnews.default_sort_order``` to ```2``` and ```mailnews.default_sort_type``` to ```18``` (sort dates descending, so newer emails first)
+- In config, set ```mailnews.default_sort_order``` to ```2``` and ```mailnews.default_sort_type``` to ```18``` (sort dates descending, so newer emails first), or ```mailnews.default_sort_type``` to ```22``` (to sort dates descending and sort by thread)
