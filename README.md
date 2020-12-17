@@ -1,5 +1,7 @@
 # Better thunderbird settings and themes
 
+Tested in Thunderbird 78.
+
 ## Theme
 - In config, set ```toolkit.legacyUserProfileCustomizations.stylesheets``` to ```true```
 - Create chrome/ folder in profile folder, then create userChrome.css with :
